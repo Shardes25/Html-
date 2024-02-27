@@ -1,0 +1,14 @@
+h1{
+    background-color: aqua;
+}
+#titulo-fotos{
+    background-color: bisque;
+    border: 1px solid black;
+}
+#titulo-index{
+    border-style: dotted;
+    border-color: blue;
+}
+.libros {
+    font-size: 30px    ;
+}
